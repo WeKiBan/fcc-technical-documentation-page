@@ -1,0 +1,37 @@
+html{
+  font-size: 10px;
+}
+
+body{
+  background-color:  #f7f7f7;
+  color: #5D5C61  ;
+  font-size: 1.7rem;
+  line-height: 150%;
+}
+
+.header{
+  font-size:3rem;
+  color:black;
+  font-family: 'Roboto Slab', serif;
+}
+
+.main-section{
+  margin:40px;
+  font-family: 'Roboto', sans-serif;
+}
+
+li{
+  padding-bottom: 20px;
+}
+
+code{
+  background-color: rgba(233, 126, 114, 0.55);
+  display:block;
+  padding:20px;
+  border-radius:5px;
+  width: 90%;
+  margin:auto;
+  line-height: 200%;
+  font-size: 1.3rem;
+  white-space: pre;
+}
